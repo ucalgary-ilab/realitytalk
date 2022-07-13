@@ -1,0 +1,106 @@
+body {
+  margin: 5%;
+}
+
+#teaser {
+  width: 100%;
+}
+
+#bibtex-container {
+  width: 70%;
+  text-align: center;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+#bibtex {
+  text-align: left;
+  overflow-x: hidden;
+  padding: 30px auto;
+  margin: 10px;
+  font-family: Ubuntu Mono;
+
+}
+
+.glider-contain {
+  width: 80% !important;
+}
+
+.slick-slider {
+  width: 70% !important;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.glider-slide {
+  height: 350px !important;
+  position: relative;
+}
+
+.glider-slide img {
+  width: 100% !important;
+  object-fit: cover !important;
+  background-position: center center;
+  background-size: cover;
+  padding: auto;
+  margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+}
+
+
+.card .image {
+  height: 150px !important;
+}
+
+.card .image img {
+  height: 100% !important;
+  object-fit: cover !important;
+  background-position: center center;
+  background-size: cover;
+}
+
+.modal .card .image img {
+  width: 100% !important;
+}
+
+
+.card .main-content {
+  height: 120px;
+}
+
+.modal .images .image {
+  height: 150px !important;
+}
+
+.modal .images .image img {
+  height: 100% !important;
+  object-fit: cover !important;
+  background-position: center center;
+  background-size: cover;
+}
+
+
+.max-three-lines {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  line-clamp: 3;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  margin-bottom: 5px;
+}
+
+.max-two-lines {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  line-clamp: 2;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
