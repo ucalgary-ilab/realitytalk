@@ -60,11 +60,11 @@ class App extends Component {
               <p>by Jian Liao, Adnan Karim, Shivesh Jadon, Rubaiat Kazi Habib, Ryo Suzuki</p>
               <p><i>Keywords: Augmented and Mixed Reality, Augmented Presentation, Storytelling, Natural Language Processing, Speech Recognition</i></p>
               <p>
-                <a href='/ar-and-robotics/chi-2022.pdf' target='_blank' className='ui button'>
+                <a href='/realitytalk/uist-2022.pdf' target='_blank' className='ui button'>
                   PDF
                 </a>
                 &nbsp;&nbsp;&nbsp;
-                <a href='https://doi.org/10.1145/3491102.3517719' target='_blank' className='ui  button'>
+                <a href='https://doi.org/10.1145/3526113.3545702' target='_blank' className='ui  button'>
                   DOI
                 </a>
                 &nbsp;&nbsp;&nbsp;
@@ -73,8 +73,8 @@ class App extends Component {
                 </a>
               </p>
 
-              <a href='/ar-and-robotics/chi-2022.pdf' target='_blank'>
-                <img id='teaser' src='/ar-and-robotics/chi-2022/figures/teaser.jpg' />
+              <a href='/realitytalk/uist-2022.pdf' target='_blank'>
+                <img id='teaser' src='/realitytalk/uist-2022/figures/teaser.png' />
               </a>
             </div>
             <div>
@@ -93,18 +93,18 @@ class App extends Component {
             <div>
             </div>
 
-            <div id='bibtex-container'>
-              <pre id='bibtex' className='ui message'>
-{`@inproceedings{suzuki2022augmented,
-  title={Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces},
-  author={Suzuki, Ryo and Karim, Adnan and Xia, Tian and Hedayati, Hooman and Marquardt, Nicolai},
-  booktitle={Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems},
-  pages={1--32},
-  year={2022},
-  url = {https://doi.org/10.1145/1122445.1122456}
-}`}
-              </pre>
-            </div>
+{/*            <div id='bibtex-container'>*/}
+{/*              <pre id='bibtex' className='ui message'>*/}
+{/*/!*{`@inproceedings{liao2022realitytalk,*!/*/}
+{/*/!*  title={RealityTalk: Real-Time Speech-Driven Augmented Presentation for AR Live Storytelling},*!/*/}
+{/*/!*  author={Jian Liao, Adnan Karim, Shivesh Jadon, Rubaiat Kazi Habib, Ryo Suzuki},*!/*/}
+{/*/!*  booktitle={Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems},*!/*/}
+{/*/!*  pages={1--32},*!/*/}
+{/*/!*  year={2022},*!/*/}
+{/*/!*  url = {https://doi.org/10.1145/3526113.3545702}*!/*/}
+{/*/!*}`}*!/*/}
+{/*              </pre>*/}
+{/*            </div>*/}
 
           </div>
           <div className='ui vertical segment'>
