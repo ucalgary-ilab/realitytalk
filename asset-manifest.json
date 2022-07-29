@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/augmented-presentation/static/css/main.f228ec93.css",
-    "main.js": "/augmented-presentation/static/js/main.14a17c39.js",
-    "index.html": "/augmented-presentation/index.html",
-    "static/media/slick.svg": "/augmented-presentation/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/augmented-presentation/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/augmented-presentation/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/augmented-presentation/static/media/slick.295183786cd8a1389865.woff",
-    "main.f228ec93.css.map": "/augmented-presentation/static/css/main.f228ec93.css.map",
-    "main.14a17c39.js.map": "/augmented-presentation/static/js/main.14a17c39.js.map"
+    "main.css": "/realitytalk/static/css/main.b71dd431.css",
+    "main.js": "/realitytalk/static/js/main.ad76b91a.js",
+    "index.html": "/realitytalk/index.html",
+    "static/media/slick.svg": "/realitytalk/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/realitytalk/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/realitytalk/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/realitytalk/static/media/slick.295183786cd8a1389865.woff",
+    "main.b71dd431.css.map": "/realitytalk/static/css/main.b71dd431.css.map",
+    "main.ad76b91a.js.map": "/realitytalk/static/js/main.ad76b91a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f228ec93.css",
-    "static/js/main.14a17c39.js"
+    "static/css/main.b71dd431.css",
+    "static/js/main.ad76b91a.js"
   ]
 }
